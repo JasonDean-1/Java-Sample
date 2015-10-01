@@ -31,6 +31,5 @@ public class testLambda
 	{
 		testLambda tl =new testLambda();
 		tl.eat(()->System.out.println("EEEEEEEEEE"));
-		tl.fly(()->System.out.println("EEEEEEEEEE"));
 	}
 }

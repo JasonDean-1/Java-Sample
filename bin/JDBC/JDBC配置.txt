@@ -1,0 +1,4 @@
+1、安装MySQL 只需要安装server document 还有sample就好了
+2、下载官方 connector 最好用jar的(mysql-connector-java-3.1.10-bin.jar)
+3、eclipse 要添加相应的jar包
+4、创建相应的database（例程中javademo）在MySQL cmd中 create database javademo
